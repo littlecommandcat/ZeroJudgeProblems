@@ -2,6 +2,8 @@
 
 Push some fun things.
 
+主要做我想做的部分而已💀
+
 [ZeroJudge](https://zerojudge.tw/)
 
 ## Achievement
